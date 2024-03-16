@@ -22,6 +22,7 @@ AVMerger is useful for tasks such as adding background music to video clips or m
 ## Usage
 
 1. Create AVMerger directory/folder:
+    Linux: ```bash mkdir AVMerger
     ```bash
     cd AVMerger
 2. Clone the repository:
