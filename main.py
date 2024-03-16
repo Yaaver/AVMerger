@@ -74,9 +74,9 @@ class AVMerger:
         return audio_clip
 
 if __name__ == "__main__":
-    video_folder = r"E:\- YouTube Work\Channel - Factual Fusion Hub\to_be_uploaded"
-    audio_folder = r"E:\- YouTube Work\Channel - Factual Fusion Hub\to_be_uploaded\audios"
-    output_folder = r"E:\- YouTube Work\Channel - Factual Fusion Hub\to_be_uploaded\output"
+    video_folder = r"videos_folder_path" # e.g. "D:/Users/username/Desktop/videos"
+    audio_folder = r"audios_folder_path" # e.g. "E:/Users/username/Desktop/audios"
+    output_folder = r"output_folder_path"  # e.g. "F:/Users/username/Desktop/merged_videos"
 
     # Set test mode and specify the number of files to process
     test_mode = False
