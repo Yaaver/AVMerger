@@ -25,6 +25,13 @@ AVMerger is useful for tasks such as adding background music to video clips or m
     ```bash
     cd AVMerger
 2. Clone the repository:
-
     ```bash
     git clone https://github.com/Yaaver/AVMerger.git
+
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+
+4. Run the script:
+    ```bash
+    python main.py
