@@ -26,6 +26,7 @@ AVMerger is useful for tasks such as adding background music to video clips or m
     Linux:
     ```bash
     mkdir AVMerger
+    cd AVMerger
     ```
     
     Windows:
