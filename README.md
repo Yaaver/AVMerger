@@ -24,12 +24,14 @@ AVMerger is useful for tasks such as adding background music to video clips or m
 1. Create AVMerger directory/folder:
     
     Linux:
-        ```bash
-        mkdir AVMerger
+    ```bash
+    mkdir AVMerger
+    ```
     
     Windows:
-        ```bash
-        Right click and create the folder :-P
+    ```bash
+    Right click and create the folder :-P
+    ```
 2. Clone the repository:
     ```bash
     git clone https://github.com/Yaaver/AVMerger.git
